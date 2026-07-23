@@ -45,7 +45,9 @@ The model can be used to analyse:
 PyPSA-Oman is intended to provide a transparent and reproducible foundation for testing alternative assumptions on demand, technology costs, renewable resources, storage, hydrogen conversion and network development in Oman and comparable Gulf electricity systems.
 
 <p align="center">
-  <img src="doc/figures/pypsa_oman_current_generation_capacity.png" width="72%" alt="PyPSA-Oman current generation capacity">
+  <img src="pypsa_oman_current_generation_capacity.png"
+       width="72%"
+       alt="PyPSA-Oman current generation capacity">
 </p>
 
 <p align="center">
