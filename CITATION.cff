@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+message: "If you use PyPSA-Oman, please cite this software and the associated publication when available."
+title: "PyPSA-Oman: An Open, Spatially Resolved Model of Oman's Electricity Transition to 2050"
+type: software
+authors:
+  - family-names: Al-Maskari
+    given-names: Sultan
+    orcid: "https://orcid.org/0009-0003-3913-1411"
+year: 2026
+license: AGPL-3.0-or-later
+repository-code: "https://github.com/sultdark/Pypsa-OM"
+keywords:
+  - PyPSA
+  - energy system modelling
+  - capacity expansion
+  - Oman
+  - renewable energy
+  - transmission planning
