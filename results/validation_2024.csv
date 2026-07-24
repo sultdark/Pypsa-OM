@@ -1,0 +1,7 @@
+indicator,unit,official_2024,pypsa_oman_2024,deviation_value,deviation_percent,notes
+Total electricity supplied,TWh,45.662,46.282,0.62,1.36,Official value from Nama PWP 2024; model has no virtual load shedding.
+Thermal generation,TWh,43.787,44.535,0.748,1.71,Official thermal generation calculated as total supplied less reported solar and wind.
+Solar generation,TWh,1.744,1.632,-0.112,-6.45,
+Wind generation,TWh,0.131,0.115,-0.016,-11.84,
+Total renewable generation,TWh,1.875,1.747,-0.128,-6.83,
+Renewable share of supplied energy,%,4.106,3.775,-0.331,,Deviation is expressed in percentage points.
